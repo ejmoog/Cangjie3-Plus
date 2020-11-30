@@ -1,8 +1,12 @@
 # Cangjie3-Plus
 
-[简化字版说明](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/README-hans.md)
+倉頡三代補完計畫，和 [Cangjie5](https://github.com/Jackchows/Cangjie5) 一樣，是不三不五的倉頡碼表。這個碼表不知道三五的主要區別，比如「蠢：手大日中戈」這是三代，「蠢：手日中戈戈」五代。它們把三五混在一起，不三不五。
 
-倉頡三代補完計畫，和 [Cangjie5](https://github.com/Jackchows/Cangjie5) 相關。
+與此同時，三代補完計畫的作者老楊，它是「無敵公式1-0.1^n」的作者。
+
+無敵公式全稱為「宇宙無敵倉頡編碼不出錯率公式1-0.1^n」，它證明了某碼表中的「賡瘱螷」等字的編碼「絶對無誤」。
+
+讓我們一起来讚美由倉頡老楊格瓦拉原創的無敵公式！
 
 ## 反饋錯誤
 
